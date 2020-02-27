@@ -7,3 +7,12 @@
 #header a{
 	color: white;
 }
+
+#footer {
+	background-color: #405a66;
+	text-align: center;
+	clear: both;
+}
+#footer p{
+	color: white;
+}

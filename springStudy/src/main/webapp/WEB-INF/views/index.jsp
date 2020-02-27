@@ -12,5 +12,6 @@
 <%@ include file="header.jsp" %>
 <h2>${message}</h2>
 <a href="#">test 페이지 이동</a>
+<%@ include file="footer.jsp" %>
 </body>
 </html>

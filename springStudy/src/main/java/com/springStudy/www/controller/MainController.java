@@ -22,4 +22,16 @@ public class MainController {
 		model.addAttribute("result", result);
 		return "member/login";
 	}
+	@RequestMapping("board.do")
+	public String board(Model model) {
+		String result="게시판 페이지";
+		model.addAttribute("result", result);
+		return "board/board";
+	}
+	@RequestMapping("api.do")
+	public String api(Model model) {
+		String result="API 페이지";
+		model.addAttribute("result", result);
+		return "api/api";
+	}
 }
