@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#header {
+	background-color: #405a66;
+	text-align: center;
+}
+#header a{
+	color: white;
+}
