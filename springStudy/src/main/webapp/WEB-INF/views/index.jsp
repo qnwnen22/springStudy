@@ -10,7 +10,6 @@
 </head>
 <body>
 <%@ include file="header.jsp" %>
-<h2>${message}</h2>
 <a href="#">test 페이지 이동</a>
 test01
 <br>
